@@ -15,7 +15,7 @@ import MainLoadingScreen from "./components/MainLoadingScreen";
 
 store.dispatch(extendedApi.endpoints.getConfiguration.initiate(undefined));
 
-
+//dddddddddd
 //code 
 
 const root = ReactDOM.createRoot(
